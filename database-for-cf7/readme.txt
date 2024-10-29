@@ -3,8 +3,8 @@ Contributors: code4life
 Tags: Contact Form 7, CF7, CF7 Database, Database, Save contact form,
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=code4lifeitalia@gmail.com&item_name=Donazione&item_number=Contributo+libero¤cy_code=EUR&lc=it_IT
 Requires at least: 4.6
-Tested up to: 6.3
-Stable tag: 1.2.5
+Tested up to: 6.6
+Stable tag: 1.2.6
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -56,6 +56,10 @@ You can always deactivate the plugin without loosing data.
 
 == Changelog ==
 For more information, see [Official page](https://code4life.it/shop/plugins/database-for-cf7/).
+
+= v1.2.6 =
+* Compatibility check for WP v6.6
+* Compatibility check for CF7 v5.9
 
 = v1.2.5 =
 * Vulnerability check and improved security
